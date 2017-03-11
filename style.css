@@ -1,0 +1,45 @@
+
+h1	{text-align: center;}
+
+ div{ background: gray; }
+
+
+.Barcelona ul li {display: inline-block;
+                  border: 2px solid black;
+                  background: coral;
+                  font-size: 600%;
+                  margin:10 100 px;
+                  padding-bottom: :80px; }
+	           
+
+
+.slidebar img	{  width: 300px;
+               border: 2px solid white;
+               background: red;
+               margin: 10 100 10 5px;
+               padding-left: 20px;
+
+          }
+
+
+.article h1 { background:yellow ;
+width: 10% 
+display:inline;}
+
+
+#text{ background: coral;  }
+
+
+
+
+
+  .footer ul li {
+  	         width: 10%
+  	         border:2px solid blue;
+             background: white;
+  }
+  #number {  width: 30%;
+  	          display: inline;
+             font-size: 140%;
+          text-align: center;
+            }
